@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifahsaan&show_icons=true&locale=en" alt="asifahsaan" width="400px" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifahsaan&" alt="asifahsaan"  width="400px" height="80px" /></p>
+<p>&nbsp;<img height="380px" align="center" src="https://github-readme-stats.vercel.app/api?username=asifahsaan&show_icons=true&locale=en" alt="asifahsaan" width="400px" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifahsaan&" alt="asifahsaan"  width="400px" height="380px" /></p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifahsaan" alt="asifahsaan" /></a> </p>
