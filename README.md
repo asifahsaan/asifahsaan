@@ -53,9 +53,9 @@
   <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asifahsaan)](https://git.io/streak-stats)-->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifahsaan&" alt="asifahsaan"  width="400px" /></p>
 
-
+<!---
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifahsaan" alt="asifahsaan" /></a> </p>
-
+-->
 <!---
 asifahsaan/asifahsaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
