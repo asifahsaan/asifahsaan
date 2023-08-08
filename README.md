@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Science, Machine/Deep Learning, or FrontEnd**
 
-- 📫 How to reach me **write an email at asifahsaan@protonmail.com or l202370@lhr.nu.edu.pk**
+- 📫 How to reach me **write an email at asifahsaan@protonmail.com or asif.ahsan@lhr.nu.edu.pk**
 
 - 👯 I’m looking to collaborate on **collaborate on Business Intelligence related work, demand forecasting, sales analysis**
 
