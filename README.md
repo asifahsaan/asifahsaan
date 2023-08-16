@@ -47,12 +47,12 @@
 </div>
 
 <br>
-<h3 align="left">GitHub profile stats:</h3>
+<!--<h3 align="left">GitHub profile stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifahsaan&show_icons=true&locale=en" alt="asifahsaan" width="400px" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   
   <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asifahsaan)](https://git.io/streak-stats)-->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifahsaan&" alt="asifahsaan"  width="400px" /></p>
-
+  <!--<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifahsaan&" alt="asifahsaan"  width="400px" /></p>
+-->
 <!---
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifahsaan" alt="asifahsaan" /></a> </p>
 -->
