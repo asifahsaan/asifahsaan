@@ -1,6 +1,6 @@
 &nbsp;&nbsp;&nbsp; 
   <img align="right" src="https://komarev.com/ghpvc/?username=asifahsaan&label=Profile%20views&color=0e75b6&style=flat" alt="asifahsaan" />
-<h1 align="center"> Hi 👋, I'm Asif Ahsan, Data Scientist
+<h1 align="center"> Hi 👋, I'm Asif Ahsaan, Data Scientist
 </h1>
 
 
